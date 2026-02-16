@@ -1,7 +1,5 @@
 # CSCI 6461 Assembler Project
 
-**Author**: [Your Name]
-**Date**: February 15, 2026
 **Course**: CSCI 6461 Computer Architecture
 
 ## Overview
